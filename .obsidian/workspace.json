@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "5faab1b37f73a35e",
@@ -136,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4d1fa70dfb324a8",
+  "active": "f1a1519bb681d391",
   "lastOpenFiles": [
     "README.md",
     "分库分表的背景.md"
